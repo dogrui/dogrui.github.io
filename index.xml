@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>🐕</title>
     <link>https://dogrui.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 🐕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 14:45:39 +0800</lastBuildDate>
     
 	<atom:link href="https://dogrui.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Typora用法</title>
-      <link>https://dogrui.github.io/post/blog-1/</link>
-      <pubDate>Tue, 21 Jul 2020 14:45:39 +0800</pubDate>
-      
-      <guid>https://dogrui.github.io/post/blog-1/</guid>
-      <description>1. 字体编辑 1.1 大小： 大小：ctr + 数字 或 ctr + 加减号 或 ###
-1.2 加粗 加粗：ctr + b
-1.3 倾斜 倾斜：ctr + i
-1.4 下划线 下划线：ctr + u1.5 删除线 删除线：alt + shift + 5
-1.6 上标 上标 ：^字体^
-1.7 脚注 脚注： [ + ^ + 脚注]
-1.8 下标 下标：~ + 字体 + ~
-~字体~
-1.9 ==+高亮显示+== ==高亮显示==：== +字体 +==
-==高亮显示==
-1.10 着重关键字 淡化显示`：`+ 字体 + 着重关键字`：ctr + shift + ` print(&amp;quot;hello,world!</description>
-    </item>
     
   </channel>
 </rss>
