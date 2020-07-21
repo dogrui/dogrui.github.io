@@ -6,10 +6,24 @@
     <description>Recent content on rui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2020 17:25:32 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 17:53:34 +0800</lastBuildDate>
     
 	<atom:link href="https://dogrui.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog 03</title>
+      <link>https://dogrui.github.io/blog-03/</link>
+      <pubDate>Tue, 21 Jul 2020 17:53:34 +0800</pubDate>
+      
+      <guid>https://dogrui.github.io/blog-03/</guid>
+      <description>myblog中
+hugo new xxx.md
+hugo --theme=m10c --baseUrl=&amp;quot;https://dogrui.github.io/&amp;quot; --buildDrafts
+hugo --theme=m10c --baseUrl=&amp;quot;https://dogrui.github.io/&amp;quot; cd public/
+public中
+git init git add . git commit -m &amp;quot;第二次&amp;quot; git remote add origin https://github.com/dogrui/dogrui.github.io.git git push -u origin master</description>
+    </item>
     
     <item>
       <title>Blog 02</title>
